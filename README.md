@@ -1,4 +1,4 @@
-# Windows_Exam
+# Windows_Exam_CLI
 ## First steps
 Installation of the server <br>
 Adjusting the partitions <br>
