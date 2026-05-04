@@ -6,8 +6,8 @@ Guía completa de administración de Windows Server dividida por temas.
 
 | Branch | Contenido |
 |--------|-----------|
-| [cli-setup](../../tree/cli-setup) | Instalación vía CLI (PowerShell) |
-| [gui-setup](../../tree/gui-setup) | Instalación vía GUI paso a paso |
-| [users-groups](../../tree/users-groups) | Usuarios, Grupos y OUs (ADUC) |
-| [trust](../../tree/trust) | Confianza bidireccional entre dominios |
-| [dhcp-client](../../tree/dhcp-client) | DHCP, Cliente y Carpeta Compartida |
+| [cli-setup](../../tree/cli-setup) | Installation via CLI (PowerShell) |
+| [gui-setup](../../tree/gui-setup) | Step-by-step GUI Installation |
+| [users-groups](../../tree/users-groups) | Users, Groups and OUs (ADUC) |
+| [trust](../../tree/trust) | Bidirectional trust between domains |
+| [dhcp-client](../../tree/dhcp-client) | DHCP, Client and Shared Folder |
