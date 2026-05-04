@@ -1,10 +1,10 @@
 # Windows Server — Exam Guide
 
-Guía completa de administración de Windows Server dividida por temas.
+Comprehensive Windows Server administration guide divided by topics.
 
 ## Branches
 
-| Branch | Contenido |
+| Branch | Content |
 |--------|-----------|
 | [cli-setup](../../tree/cli-setup) | Installation via CLI (PowerShell) |
 | [gui-setup](../../tree/gui-setup) | Step-by-step GUI Installation |
