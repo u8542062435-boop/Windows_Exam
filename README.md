@@ -92,7 +92,7 @@ From the **client**, access the shared folder using its UNC path: `\\ServerName\
 The client cannot create folders — this is expected behavior based on the permission settings defined in Step 5.
 
 ![Permission Verification](https://github.com/user-attachments/assets/52d431e2-2ffc-43e7-8e53-d20d8b2a924a)
-The client cannot create folders — this is expected behavior based on the permission settings defined in Step 5.
+
 
 ---
 
