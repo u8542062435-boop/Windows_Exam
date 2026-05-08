@@ -93,6 +93,5 @@ The client cannot create folders — this is expected behavior based on the perm
 
 ![Permission Verification](https://github.com/user-attachments/assets/52d431e2-2ffc-43e7-8e53-d20d8b2a924a)
 
-
 ---
 
